@@ -1,0 +1,8 @@
+{
+    "name": "pedroxam/imdb-grabs",
+    "autoload": {
+        "psr-0" : {
+            "Pedroxam\\imdb-grabs" : "src"
+        }
+    }
+}
